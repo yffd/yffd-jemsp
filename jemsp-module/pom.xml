@@ -16,7 +16,7 @@
 
     <properties>
         <!-- 单元测试框架 -->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <!-- 日志框架 -->
         <slf4j.version>1.7.25</slf4j.version>
         <logback.version>1.2.3</logback.version>
